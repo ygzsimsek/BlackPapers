@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#455a64</color>
+    <color name="colorPrimaryDark">#1c252c</color>
+    <color name="colorAccent">#96c2c5</color>
+    <color name="white">#FFFFFF</color>
+    <color name="bpNOTBackground">#96c2c5</color>
+    <color name="bpBackground">#1c252c</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="black_transparent">#90000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="background_material_dark">#424242</color>
+    <color name="active_tab_color">#FF96C2C5</color>
+    <color name="instagram_purple">#833AB4</color>
+    <color name="facebook_blue">#3B5998</color>
+    <color name="twitter_blue">#1da1f2</color>
+</resources>

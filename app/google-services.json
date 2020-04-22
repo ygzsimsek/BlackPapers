@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "454475037616",
+    "firebase_url": "https://wallpaper-blackwater.firebaseio.com",
+    "project_id": "wallpaper-blackwater",
+    "storage_bucket": "wallpaper-blackwater.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454475037616:android:ff6b13ee8af6c63d",
+        "android_client_info": {
+          "package_name": "com.blackwater.blackpapers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "454475037616-8rf6s939ge90l0k1pii277di9lsdh3te.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.blackwater.blackpapers",
+            "certificate_hash": "9e994596c64513d9964d9d4acc51555ce4c250bc"
+          }
+        },
+        {
+          "client_id": "454475037616-7jn0onrm5h9idrgdci960ns8uov8p7vp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUfHmyyCMqvSI-bdWhYvbFgYP0XmEXq_c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "454475037616-7jn0onrm5h9idrgdci960ns8uov8p7vp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454475037616:android:e5a7bc658da86c68",
+        "android_client_info": {
+          "package_name": "com.blackwater.wpengine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "454475037616-2tj8cm9djn99974d12o468ddc5adr7pn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.blackwater.wpengine",
+            "certificate_hash": "9e994596c64513d9964d9d4acc51555ce4c250bc"
+          }
+        },
+        {
+          "client_id": "454475037616-7jn0onrm5h9idrgdci960ns8uov8p7vp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUfHmyyCMqvSI-bdWhYvbFgYP0XmEXq_c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "454475037616-7jn0onrm5h9idrgdci960ns8uov8p7vp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
